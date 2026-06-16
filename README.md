@@ -1,16 +1,41 @@
 ## Hi there 👋
+<h1 align="center">Olá, eu sou Maria Eduarda 👋</h1>
 
-<!--
-**mariaaraquell/mariaaraquell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Estudante de Desenvolvimento de sistemas pelo SESI-SENAIa</h3>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👩‍💻 Sobre mim</h2>
+
+<ul>
+  <li>🎓 Estudante de desenvolvimento de sistema</li>
+  <li>🐍 Aprendendo Python</li>
+  <li>🌐 Estudando Git e GitHub</li>
+  <li>🚀 Em busca de novos conhecimentos</li>
+</ul>
+
+<h2>🛠️ Tecnologias</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css" />
+</p>
+
+<h2>📊 Estatísticas GitHub</h2>
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true" />
+</p>
+
+<h2>📫 Contato</h2>
+
+<p>
+  <a href="https://github.com/SEU_USUARIO">
+    GitHub
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+  Obrigada por visitar meu perfil! ❤️
+</p>
