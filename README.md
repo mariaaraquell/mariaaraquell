@@ -40,12 +40,6 @@
   <li>⚙️ Aprimorando conhecimentos em Engenharia de Software</li>
 </ul>
 
-<h2>📊 Estatísticas GitHub</h2>
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaaraquell&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaraquell&layout=compact&theme=tokyonight" />
-</p>
 
 <h2>📫 Contato</h2>
 
@@ -62,6 +56,4 @@
 
 <p align="center">
 Obrigado por visitar meu perfil! ❤️
-</p>
-
 </p>
